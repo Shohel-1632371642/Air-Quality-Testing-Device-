@@ -1,0 +1,6 @@
+INSERT INTO `demo`(`time`, `amount`) VALUES (CURRENT_TIME,194);
+INSERT INTO `demo`(`time`, `amount`) VALUES (CURRENT_TIME,215);
+INSERT INTO `demo`(`time`, `amount`) VALUES (CURRENT_TIME,369);
+INSERT INTO `demo`(`time`, `amount`) VALUES (CURRENT_TIME,255);
+INSERT INTO `demo`(`time`, `amount`) VALUES (CURRENT_TIME,149);
+INSERT INTO `demo`(`time`, `amount`) VALUES (CURRENT_TIME,150);
